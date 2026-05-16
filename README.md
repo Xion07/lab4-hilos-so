@@ -10,8 +10,8 @@ Universidad de Antioquia
 
 | Nombre completo | Correo institucional | N.º de documento |
 |---|---|---|
-| Nombre Apellido 1 | nombre1@udea.edu.co | 1000000001 |
-| Nombre Apellido 2 | nombre2@udea.edu.co | 1000000002 |
+| Jenny Andrea Orozco Osorio |  Jennya.orozco@udea.edu.co | CC.43.918.288  
+| David Julián Penagos Arroyave | julian.penagos@udea.edu.co | CC.1.037.610.202 |
 
 ---
 

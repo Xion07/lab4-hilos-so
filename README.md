@@ -175,8 +175,7 @@ F(10)=55 F(11)=89 F(12)=144 F(13)=233 F(14)=377   ✓
 
 ## Video de sustentación
 
-[🎬 Enlace al video (10 min) — YouTube / Drive](#)  
-*(Reemplazar con el enlace real antes de entregar)*
+[https://youtu.be/z1Ll9gKjWSs](#)  
 
 Contenido del video:
 1. Estrategia de paralelización en `pi_p.c` (partición del bucle y recolección de resultados)
